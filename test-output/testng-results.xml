@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="18" passed="17" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-02T20:58:37 IST" name="Default suite" finished-at="2024-06-02T20:59:07 IST" duration-ms="30597">
+    <groups>
+    </groups>
+    <test started-at="2024-06-02T20:58:37 IST" name="Default test" finished-at="2024-06-02T20:59:07 IST" duration-ms="30597">
+      <class name="com.digitalresume.scripts.CreateProfileTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:37 IST" name="setup" finished-at="2024-06-02T20:58:49 IST" duration-ms="12786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login()[pri:1, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:49 IST" name="Login" finished-at="2024-06-02T20:58:50 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method signature="CreateProfile()[pri:2, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:50 IST" name="CreateProfile" finished-at="2024-06-02T20:58:50 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateProfile -->
+        <test-method signature="Graduation()[pri:3, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:50 IST" name="Graduation" finished-at="2024-06-02T20:58:51 IST" duration-ms="524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Graduation -->
+        <test-method signature="PostGraduation()[pri:4, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:51 IST" name="PostGraduation" finished-at="2024-06-02T20:58:51 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostGraduation -->
+        <test-method signature="Project()[pri:5, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:51 IST" name="Project" finished-at="2024-06-02T20:58:52 IST" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Project -->
+        <test-method signature="AdditionalQualification()[pri:6, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:52 IST" name="AdditionalQualification" finished-at="2024-06-02T20:58:52 IST" duration-ms="366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdditionalQualification -->
+        <test-method signature="JobExperience()[pri:7, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:52 IST" name="JobExperience" finished-at="2024-06-02T20:58:52 IST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- JobExperience -->
+        <test-method signature="enterToEditProfile()[pri:8, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:52 IST" name="enterToEditProfile" finished-at="2024-06-02T20:58:52 IST" duration-ms="133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterToEditProfile -->
+        <test-method signature="eLogin()[pri:9, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:52 IST" name="eLogin" finished-at="2024-06-02T20:58:53 IST" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eLogin -->
+        <test-method signature="highSchool()[pri:10, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:53 IST" name="highSchool" finished-at="2024-06-02T20:58:54 IST" duration-ms="617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highSchool -->
+        <test-method signature="highSecondarySchool()[pri:11, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:54 IST" name="highSecondarySchool" finished-at="2024-06-02T20:58:54 IST" duration-ms="573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- highSecondarySchool -->
+        <test-method signature="eGraduation()[pri:12, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:54 IST" name="eGraduation" finished-at="2024-06-02T20:58:55 IST" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eGraduation -->
+        <test-method signature="ePostGraduation()[pri:13, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:55 IST" name="ePostGraduation" finished-at="2024-06-02T20:58:55 IST" duration-ms="486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ePostGraduation -->
+        <test-method signature="eProject()[pri:14, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:55 IST" name="eProject" finished-at="2024-06-02T20:58:56 IST" duration-ms="548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eProject -->
+        <test-method signature="eAdditionalQualification()[pri:15, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:56 IST" name="eAdditionalQualification" finished-at="2024-06-02T20:58:56 IST" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eAdditionalQualification -->
+        <test-method signature="eJobExperience()[pri:16, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:56 IST" name="eJobExperience" finished-at="2024-06-02T20:58:57 IST" duration-ms="456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- eJobExperience -->
+        <test-method signature="dLogin()[pri:17, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:57 IST" name="dLogin" finished-at="2024-06-02T20:58:57 IST" duration-ms="458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dLogin -->
+        <test-method signature="delete()[pri:18, instance:com.digitalresume.scripts.CreateProfileTestCase@38425407]" started-at="2024-06-02T20:58:57 IST" name="delete" finished-at="2024-06-02T20:59:07 IST" duration-ms="10036" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Delete Profile']"}
+  (Session info: chrome=125.0.6422.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1a4763ea8ff33dfdb6fa0ef399587eb7, findElement {value=//a[normalize-space()='Delete Profile'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.113, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\GREESH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58518}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58518/devtoo..., se:cdpVersion: 125.0.6422.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a4763ea8ff33dfdb6fa0ef399587eb7]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[normalize-space()='Delete Profile']"}
+  (Session info: chrome=125.0.6422.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1a4763ea8ff33dfdb6fa0ef399587eb7, findElement {value=//a[normalize-space()='Delete Profile'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.113, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\GREESH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58518}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58518/devtoo..., se:cdpVersion: 125.0.6422.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1a4763ea8ff33dfdb6fa0ef399587eb7
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:355)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:349)
+at com.digitalresume.pages.CreateProfilePage.deleteClick(CreateProfilePage.java:487)
+at com.digitalresume.scripts.CreateProfileTestCase.delete(CreateProfileTestCase.java:182)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:228)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:961)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:201)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:819)
+at org.testng.TestRunner.run(TestRunner.java:619)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1228)
+at org.testng.TestNG.runSuites(TestNG.java:1134)
+at org.testng.TestNG.run(TestNG.java:1101)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+      </class> <!-- com.digitalresume.scripts.CreateProfileTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
